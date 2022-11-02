@@ -19,6 +19,7 @@
 - A Semi Automatic Battery Operated (SABO) garbage cleaning vehicle. 
 - It uses the same principle of manual sweeping method but with a long continuous brush that rotates at certain RPM in an enclosed trolley.
 - It also reduces labour effort as well as reduces dust pollution, thus making  the product a social and environmental advantageous.
+![SABOV3 0](https://user-images.githubusercontent.com/113464553/199404997-b96ddfe3-1eaa-4bed-8f93-0fabfa4198f5.jpg)
 
 
 ## Conclusion

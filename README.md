@@ -1,4 +1,5 @@
 # SABO-Garbage-Cleaning-Machine-
+[![Watch the video]([https://i.stack.imgur.com/Vp2cE.png](https://drive.google.com/file/d/1Fo6bO7888dbAlHZFRc94J-mCSf6SMTYq/view?usp=sharing))]([https://youtu.be/vt5fpE0bzSY](https://drive.google.com/file/d/1Xjbnp2LTnKpB-5jg09HNLBWQs-0Qp14V/view?usp=sharing))
 
 - The current scenario in India of garbage cleaning is not automated. From garbage collection to separation, everything is done manually.
 - There are some automated systems of garbage cleaning vehicles in India are available only in metropolitan cities. But those are very costly and not affordable in every region in India. So there is a need of automated garbage cleaning system which also reduces human efforts.
